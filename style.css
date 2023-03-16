@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+#need {
+    margin-top: 10px;
+}
+
+#whatsapp {
+    /* margin-top: -100px; */
+    margin-left: 13px;
+}
+
+#nig {
+    margin-top: -10px;
+    /* margin-left: 10px; */
+}
+
+.sec2 {
+    background-color: rgb(236,232,217);
+}
+
+#signin {
+    color: hsl(358.64,52.38%,67.06%);
+}
+
+.visible {
+    display: none;
+}
+
+#card {
+    width: 500px;
+    height: 400px;
+    margin-left: -15px;
+}
+
+.dev {
+    margin-left: 805px;
+    margin-top: -250px;
+}
+
+#qualityprints {
+    color:#384a62;
+    font-size: 70px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+#shippedtoyourdoorstep {
+    color:#708095;
+    font-size: 24px;
+    font-weight: 700;
+    /* margin-left: 50px; */
+    margin-top: -30px;
+}
+
+.con {
+    margin-left: 75px;
+    margin-top: 100px;
+}
+
+/* .small {
+    width: 100px;
+    height: 100px;
+} */
